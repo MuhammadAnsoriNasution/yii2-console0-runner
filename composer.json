@@ -1,0 +1,14 @@
+{
+    "name": "muhammadansorinastuion/yii2-console-runner",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Muhammad Ansori Nasution",
+            "email": "sodirakatasi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": ">=2.0.0"
+    }
+}
